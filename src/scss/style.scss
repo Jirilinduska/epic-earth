@@ -1,0 +1,23 @@
+@import './breakpoints.scss';
+
+$color-black: #17252A;
+$color-black-dark: darken($color-black, 20%);
+$color-green: #3AAFA9;
+$color-green-dark: #2B7A78;
+$color-white: #feffff;
+$color-white-dark: #def2f1;
+$trs: .7s;
+$border-radius: 10px;
+$box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+$box-shadow-hover: 5px 5px 5px 5px rgba(0, 0, 0, 0.7);
+
+
+
+@mixin container {
+    width: 90%;
+    margin: 0 auto;
+
+    @include md {
+        width: 95%;
+    }
+}

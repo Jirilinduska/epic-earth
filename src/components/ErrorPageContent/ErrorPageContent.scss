@@ -1,0 +1,46 @@
+@import '../../scss/style.scss';
+@import '../../scss/breakpoints.scss';
+
+
+.error-page {
+    width: 100%;
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+    p {
+        font-size: 1.5rem;
+        font-weight: 700;
+
+        @include md {
+            font-size: 1.25rem;
+        }
+
+        @include sm {
+            font-size: 1rem;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        display: block;
+        width: 300px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        background-color: $color-green;
+        color: $color-white;
+        transition: $trs;
+
+        &:hover {
+            background-color: $color-green-dark;
+        }
+
+        @include sm {
+            width: 150px;
+        }
+    }
+}

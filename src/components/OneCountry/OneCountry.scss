@@ -1,0 +1,62 @@
+@import '../../scss/style.scss';
+@import '../../scss/breakpoints.scss';
+
+
+.one-country {
+    flex-basis: calc(100% / 3 - 30px);
+    height: 400px;
+    background-color: $color-black;
+    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+    overflow: hidden;
+    transition: $trs;
+    cursor: pointer;
+
+    &:hover {
+        box-shadow: $box-shadow-hover;
+    }
+
+    @include xl {
+        flex-basis: calc(100% / 2 - 30px);
+    }
+
+    @include sm {
+        flex-basis: 100%;
+        height: 320px;
+    }
+
+    .country-flag {
+        width: 100%;
+        height: 50%;
+
+        img {
+            width: 100%;
+            height: 100%;	
+
+        }
+    }
+
+    .country-info {
+
+        .country-name {
+            font-size: 1.5rem;
+            padding: 20px 10px;
+            color: $color-white-dark;
+
+            @include md {
+                font-size: 1.25rem;
+            }
+        }
+
+        .country-capital,
+        .country-continent,
+        .country-population {
+            font-size: 1rem; 
+            padding: 0 10px;
+            margin-bottom: 5px;
+            display: flex;
+            gap: 10px;
+            color: $color-white-dark;
+        }
+    }
+}
