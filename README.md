@@ -1,4 +1,4 @@
-# Epic Earth ☀️
+# Epic Earth 🌍
 
 Epic Earth is my geo-app developed in React, TypeScript, and SCSS.
 
