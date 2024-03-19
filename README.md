@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Epic Earth ☀️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Epic Earth is my geo-app developed in React, TypeScript, and SCSS.
 
-## Available Scripts
+Using the REST COUNTRIES API, users can explore countries, conduct searches, and sort them based on various data.
 
-In the project directory, you can run:
+### Technologies used
 
-### `npm start`
+[![My Skills](https://skillicons.dev/icons?i=react,scss,ts&theme=dark)](https://skillicons.dev)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### [🔗 Live Demo ](https://sunny-nine.vercel.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Home page
+![project-sunny-1](https://github.com/Jirilinduska/sunny/assets/120704718/e7fe06e6-0c93-4c7e-946d-8b0ce9b0b521)
 
-### `npm test`
+### Search city input 
+![project-sunny-2](https://github.com/Jirilinduska/sunny/assets/120704718/7ef15da1-439f-4c50-9e20-8fd6ba0dd24b)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Weather page
+![project-sunny-3](https://github.com/Jirilinduska/sunny/assets/120704718/2958d855-6812-48e8-9c6e-23bda33d70cc)
