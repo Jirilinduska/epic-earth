@@ -8,13 +8,13 @@ Using the REST COUNTRIES API, users can explore countries, conduct searches, and
 
 [![My Skills](https://skillicons.dev/icons?i=react,scss,ts&theme=dark)](https://skillicons.dev)
 
-### [🔗 Live Demo ](https://sunny-nine.vercel.app/)
+### [🔗 Live Demo ](https://epic-earth.vercel.app/)
 
-### Home page
-![project-sunny-1](https://github.com/Jirilinduska/sunny/assets/120704718/e7fe06e6-0c93-4c7e-946d-8b0ce9b0b521)
+### Home Page
+![project-epice-earth](https://github.com/Jirilinduska/epic-earth/assets/120704718/c912c170-f74c-48ed-a049-ca7180abf5c3)
 
-### Search city input 
-![project-sunny-2](https://github.com/Jirilinduska/sunny/assets/120704718/7ef15da1-439f-4c50-9e20-8fd6ba0dd24b)
+### Browse & search countries 
+![project-epice-earth-2](https://github.com/Jirilinduska/epic-earth/assets/120704718/6a6e09b7-d8e3-41fb-90e9-36d64bcad897)
 
-### Weather page
-![project-sunny-3](https://github.com/Jirilinduska/sunny/assets/120704718/2958d855-6812-48e8-9c6e-23bda33d70cc)
+### Browse & sort data 
+![project-epice-earth-3](https://github.com/Jirilinduska/epic-earth/assets/120704718/ff8f835a-dc04-4abf-9ebb-1789445f40fc)
